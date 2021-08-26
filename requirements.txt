@@ -1,0 +1,7 @@
+# This file is used to defined python and django dependencies
+# install as python -m pip install -r requirements.txt
+Django~=3.1.2
+django-resized
+pytest
+pillow
+file:/home/bruno/PycharmProjects/hms_framework/dist/hms-framework-0.1.tar.gz
